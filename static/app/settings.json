@@ -1,4 +1,4 @@
 {
-    "appAllowed": false,
-    "statsAllowed": false
+    "appAllowed": true,
+    "statsAllowed": true
 }

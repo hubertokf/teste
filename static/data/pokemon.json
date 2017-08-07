@@ -2638,8 +2638,8 @@
     "rarity": "Very Rare",
     "types": [
       {
-        "type": "Ground",
-        "color": "#e0c068"
+        "type": "Normal",
+        "color": "#8a8a59"
       },
       {
         "type": "Flying",

@@ -1,1 +1,1 @@
-web: python runserver.py -a "$AUTH_SERVICE" -u "$USERNAME" -p "$PASSWORD" -l "$LOCATION" -st $STEP_COUNT -H 0.0.0.0 -P $PORT -k $GMAPS_KEY $EXTRA_ARGS 
+web: python runserver.py -ac accounts.csv -k AIzaSyCMVa3D2MtonTbr9bBhJQjQFOFNAXy1XcU -hk 0U9V2D0B8Z5K1S0A8G7M --speed-scan -l "-31.742676, -52.345102" -st 40 -cs -spin -H 0.0.0.0 -P $PORT -spp 99766330 -gf geofences.txt 
